@@ -1,4 +1,4 @@
-<h2>RecyclerView1</h2><br>
+<h2>RecyclerView2</h2><br>
 Nama		: Dini Eka Ristanti <br>
 Kelas		: XI RPL 6<br>
 Absen		: 10<br>
